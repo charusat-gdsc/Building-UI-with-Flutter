@@ -54,57 +54,50 @@ class _PostImageScreenState extends State<PostImageScreen> {
           )
         ],
       ),
-      body: Container(
-        child: SingleChildScrollView(
-          child: Column(
-            children: [
-              _image != null
-                  ? Image.file(_image)
-                  : Image(
-                      image: AssetImage('assets/placeholder.png'),
-                    ),
-              SizedBox(
-                height: 10,
-              ),
-              Padding(
-                padding: EdgeInsets.all(8),
-                child: TextField(
-                  controller: _captionController,
-                  decoration: InputDecoration(hintText: 'Enter Caption Here'),
-                ),
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              Container(
-                height: 50,
-                width: 175,
-                child: RaisedButton(
-                  onPressed: () {},
-                  color: Colors.red,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(24)),
-                  splashColor: Colors.blueAccent,
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Icon(
-                        Icons.send,
-                        color: Colors.white,
-                      ),
-                      SizedBox(
-                        width: 15,
-                      ),
-                      Text(
-                        'Upload',
-                        style: TextStyle(color: Colors.white),
-                      )
-                    ],
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            _image != null
+                ? Image.file(_image)
+                : Image(
+                    image: AssetImage('assets/placeholder.png'),
                   ),
+            Padding(
+              padding: EdgeInsets.symmetric(vertical: 10, horizontal: 15),
+              child: TextField(
+                controller: _captionController,
+                decoration: InputDecoration(hintText: 'Enter Caption Here'),
+              ),
+            ),
+            Container(
+              height: 50,
+              width: 175,
+              margin: EdgeInsets.symmetric(vertical: 10),
+              child: RaisedButton(
+                onPressed: () {},
+                color: Colors.red,
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(15)),
+                splashColor: Colors.blueAccent,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(
+                      Icons.send,
+                      color: Colors.white,
+                    ),
+                    SizedBox(
+                      width: 15,
+                    ),
+                    Text(
+                      'Upload',
+                      style: TextStyle(color: Colors.white),
+                    )
+                  ],
                 ),
-              )
-            ],
-          ),
+              ),
+            )
+          ],
         ),
       ),
     );
