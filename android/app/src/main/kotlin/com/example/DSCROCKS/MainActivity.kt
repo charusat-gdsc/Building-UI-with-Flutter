@@ -1,4 +1,4 @@
-package com.example.dsc_gram
+package com.example.DSCROCKS
 
 import io.flutter.embedding.android.FlutterActivity
 

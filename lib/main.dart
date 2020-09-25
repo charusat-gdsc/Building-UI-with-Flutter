@@ -1,19 +1,21 @@
-import 'package:dsc_gram/Screens/LoginScreen.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MyApp());
-}
+import 'SCREENS/ContainerDemo.dart';
+import 'SCREENS/RowDemo.dart';
+import 'SCREENS/ScaffoldDemo.dart';
+import 'SCREENS/ColumnDemo.dart';
+import 'SCREENS/StackDemo.dart';
 
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
-      theme: ThemeData(
-        primaryColor: Colors.redAccent,
-      ),
-    );
-  }
+/**
+ To change the screen just change runApp() className 
+
+ for scaffold :-- ScaFFoldDemo()
+ for container :-- ContainerDemo()
+ for Row :-- RowDemo()
+ for Column :-- ColumnDemo()
+ for Stack :-- StackDemo()
+
+ */
+void main() {
+  runApp(RowDemo());
 }
