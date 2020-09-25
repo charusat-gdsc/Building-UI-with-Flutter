@@ -1,20 +1,19 @@
-<<<<<<< HEAD
-# event2-kickstarting-with-flutter
-=======
-# dsc_gram
+# Builiding UI with Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> Created UI
+This is first event of the <b>Kickstarting Mobile Development with Flutter.</b> <br/>
+<b>Event Date: 25-09-2020</b> <br/>
+<b>Event Time : 4:30pm to 6:30pm.</b> 
+<br/>
+<ul>
+  Speakers of the Event are
+  <li><a href="https://dsc-charusat.web.app/team/adiya-pahilwani">Aditya Pahilwani</a></li>
+  <li><a href="https://dsc-charusat.web.app/team/raj-bheda">Raj Bheda</a></li>
+</ul>
+<p>Presentation that was used during the workshop can be found at: <a href="http://bit.ly/dsc-charusat-flutterep-01">Presentation</a></p>
+<ul>
+  <b>Connect with us over Social Media: </b>
+    <li><a href="https://dsccharusat.tech/">Website</a></li>
+    <li><a href="https://www.instagram.com/dsc.charusat/">Instagram</a></li>
+    <li><a href="https://twitter.com/DSC_Charusat">Twitter</a></li>
+  <li><a href="https://discord.gg/sVGBFSZ">Discord</a></li>
+</ul>
