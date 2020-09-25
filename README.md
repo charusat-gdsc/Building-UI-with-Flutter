@@ -1,6 +1,6 @@
 # Builiding UI with Flutter
 
-This is first event of the <b>Kickstarting Mobile Development with Flutter.</b> <br/>
+This is first event of the <b>Kickstarting Mobile Development with Flutter.</b> series <br/>
 <b>Event Date: 25-09-2020</b> <br/>
 <b>Event Time : 4:30pm to 6:30pm.</b> 
 <br/>
