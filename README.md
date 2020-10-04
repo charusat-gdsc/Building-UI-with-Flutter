@@ -1,8 +1,8 @@
-# Builiding UI with Flutter
+# Integrating Firebase with Flutter
 
-This is first event of the <b>Kickstarting Mobile Development with Flutter.</b> series <br/>
-<b>Event Date: 25-09-2020</b> <br/>
-<b>Event Time : 4:30pm to 6:30pm.</b> 
+This is second event of the <b>Kickstarting Mobile Development with Flutter.</b> series <br/>
+<b>Event Date: 10-10-2020</b> <br/>
+<b>Event Time : 10:30pm to 12:30pm.</b> 
 <br/>
 <ul>
   Speakers of the Event are
