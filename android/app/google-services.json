@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321449385961",
+    "firebase_url": "https://dsc-gram.firebaseio.com",
+    "project_id": "dsc-gram",
+    "storage_bucket": "dsc-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321449385961:android:c438622b9452baa61a7578",
+        "android_client_info": {
+          "package_name": "com.example.dsc_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321449385961-ko0b9ntenrhh0j6sbsueuqdbdao6mbiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsc_gram",
+            "certificate_hash": "cd43e74b67b344d2cf42bc7397649e916328ab62"
+          }
+        },
+        {
+          "client_id": "321449385961-lduge5vk2m3ei25600f86a38piad499f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gd-T8n7Ar9ybZ26gng4f5m4Kau-X3wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321449385961-lduge5vk2m3ei25600f86a38piad499f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
