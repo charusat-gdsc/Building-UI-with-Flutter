@@ -6,10 +6,10 @@ This is second event of the <b>Kickstarting Mobile Development with Flutter.</b>
 <br/>
 <ul>
   Speakers of the Event are
-  <li><a href="https://dsc-charusat.web.app/team/adiya-pahilwani">Aditya Pahilwani</a></li>
+  <li><a href="https://dsc-charusat.web.app/team/pratikraj-rajput">Pratikraj Rajput</a></li>
   <li><a href="https://dsc-charusat.web.app/team/raj-bheda">Raj Bheda</a></li>
 </ul>
-<p>Presentation that was used during the workshop can be found at: <a href="http://bit.ly/dsc-charusat-flutterep-01">Presentation</a></p>
+<p>Presentation that was used during the workshop can be found at: <a href="http://bit.ly/dsc-charusat-flutterep-02">Presentation</a></p>
 <ul>
   <b>Connect with us over Social Media: </b>
     <li><a href="https://dsccharusat.tech/">Website</a></li>
